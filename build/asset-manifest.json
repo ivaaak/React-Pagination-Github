@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Pagination-Github/static/css/main.fa521789.chunk.css",
+    "main.js": "/React-Pagination-Github/static/js/main.819ee92b.chunk.js",
+    "main.js.map": "/React-Pagination-Github/static/js/main.819ee92b.chunk.js.map",
+    "runtime-main.js": "/React-Pagination-Github/static/js/runtime-main.86798c60.js",
+    "runtime-main.js.map": "/React-Pagination-Github/static/js/runtime-main.86798c60.js.map",
+    "static/js/2.85ff8da7.chunk.js": "/React-Pagination-Github/static/js/2.85ff8da7.chunk.js",
+    "static/js/2.85ff8da7.chunk.js.map": "/React-Pagination-Github/static/js/2.85ff8da7.chunk.js.map",
+    "index.html": "/React-Pagination-Github/index.html",
+    "precache-manifest.c2e3d0d378583f70d80e242169f51c73.js": "/React-Pagination-Github/precache-manifest.c2e3d0d378583f70d80e242169f51c73.js",
+    "service-worker.js": "/React-Pagination-Github/service-worker.js",
+    "static/css/main.fa521789.chunk.css.map": "/React-Pagination-Github/static/css/main.fa521789.chunk.css.map",
+    "static/js/2.85ff8da7.chunk.js.LICENSE.txt": "/React-Pagination-Github/static/js/2.85ff8da7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86798c60.js",
+    "static/js/2.85ff8da7.chunk.js",
+    "static/css/main.fa521789.chunk.css",
+    "static/js/main.819ee92b.chunk.js"
+  ]
+}
